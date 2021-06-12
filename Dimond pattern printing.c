@@ -28,6 +28,5 @@ int main()
         }
         printf("\n");
     }
-    printf("\nDone by Sayantan Mukhopadhyay \nRoll no - 10800120105");
     return 0;
 }
